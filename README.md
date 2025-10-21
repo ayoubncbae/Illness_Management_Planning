@@ -17,6 +17,21 @@ Our work introduces a **new planning paradigm** that redefines how LLMs conceptu
 
 ---
 
+
+## 🖼️ Conceptual Framework
+
+Below is an illustration of our proposed method:
+
+
+![Conceptual Framework]([assets/framework2%20(1).jpg])
+
+> **Figure:** Overview of the proposed illness planning process: Dataset construction process (a) and proposed planning method (b) used in this study.
+
+---
+
+
+
+
 ## 🚀 Core Contributions
 
 ### 🧩 1. Novel Evaluation Dataset
@@ -38,17 +53,6 @@ Our approach achieves substantial performance gains over baseline reasoning meth
 - **+12 BLEU-4**
 - **+11 METEOR**
 - Maintains **high clinical relevance** and **computational efficiency**
-
----
-
-## 🖼️ Conceptual Framework
-
-Below is an illustration of our proposed method:
-
-
-![Conceptual Framework]([assets/framework.png](https://github.com/ayoubncbae/Illness_Management_Planning/blob/main/framework2%20(1).jpg))
-
-> **Figure:** Overview of the proposed illness planning process: Dataset construction process (a) and proposed planning method (b) used in this study.
 
 ---
 
