@@ -23,7 +23,7 @@ Our work introduces a **new planning paradigm** that redefines how LLMs conceptu
 Below is an illustration of our proposed method:
 
 
-![Conceptual Framework]([assets/framework2%20(1).jpg])
+![Conceptual Framework](https://github.com/ayoubncbae/Illness_Management_Planning/blob/main/framework2%20(1).jpg?raw=true)
 
 > **Figure:** Overview of the proposed illness planning process: Dataset construction process (a) and proposed planning method (b) used in this study.
 
